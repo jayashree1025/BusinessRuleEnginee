@@ -1,0 +1,13 @@
+C:\Users\yana\source\repos\BusinessRuleEnginee\BusinessRuleEnginee\obj\Debug\BusinessRuleEnginee.csproj.CoreCompileInputs.cache
+C:\Users\yana\source\repos\BusinessRuleEnginee\BusinessRuleEnginee\bin\Debug\BusinessRuleEnginee.exe.config
+C:\Users\yana\source\repos\BusinessRuleEnginee\BusinessRuleEnginee\bin\Debug\BusinessRuleEnginee.exe
+C:\Users\yana\source\repos\BusinessRuleEnginee\BusinessRuleEnginee\bin\Debug\BusinessRuleEnginee.pdb
+C:\Users\yana\source\repos\BusinessRuleEnginee\BusinessRuleEnginee\obj\Debug\BusinessRuleEnginee.exe
+C:\Users\yana\source\repos\BusinessRuleEnginee\BusinessRuleEnginee\obj\Debug\BusinessRuleEnginee.pdb
+C:\Users\yana\source\repos\BusinessRuleEnginee\BusinessRuleEnginee\obj\Debug\BusinessRuleEnginee.csprojAssemblyReference.cache
+C:\Users\jayashree\source\repos\BusinessRuleEnginee\BusinessRuleEnginee\bin\Debug\BusinessRuleEnginee.exe.config
+C:\Users\jayashree\source\repos\BusinessRuleEnginee\BusinessRuleEnginee\bin\Debug\BusinessRuleEnginee.exe
+C:\Users\jayashree\source\repos\BusinessRuleEnginee\BusinessRuleEnginee\bin\Debug\BusinessRuleEnginee.pdb
+C:\Users\jayashree\source\repos\BusinessRuleEnginee\BusinessRuleEnginee\obj\Debug\BusinessRuleEnginee.csproj.CoreCompileInputs.cache
+C:\Users\jayashree\source\repos\BusinessRuleEnginee\BusinessRuleEnginee\obj\Debug\BusinessRuleEnginee.exe
+C:\Users\jayashree\source\repos\BusinessRuleEnginee\BusinessRuleEnginee\obj\Debug\BusinessRuleEnginee.pdb
